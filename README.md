@@ -21,4 +21,5 @@ In your pull request description, you should include:
 
 | Name           | Validation Accuracy | Link  | Verification status (leave empty) |
 | :------------- | ------------------: | ----: | --------------------------------: |
+| Suze van Adrichem | 53.68% | https://wandb.ai/suzevana/a5_leaderboard/reports/A5-Leaderboard-submission--VmlldzoxMzEzMjI0MQ?accessToken=nr7uimyduawbeud4anp6mjo01k7n5y7mbeoeh8w6xo2chlj51f9zi4grerkv5bei | |
 | naive baseline |              40.00% |       |                          Verified |
